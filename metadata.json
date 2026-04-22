@@ -1,0 +1,6 @@
+{
+  "name": "墨韵评分",
+  "description": "一个利用 AI 技术对书法作品进行多维度评分、深度解析和美学建议的平台。支持笔法、结构、章法、神采四个维度的专业评估。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
